@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-For posting course work for peer evaluations
+For posting Data Scientist's Toolbox course work for peer evalaution
